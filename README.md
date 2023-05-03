@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" id="bagdes">
-  <a href="https://t.me/@yel_claw" target="_blank">
+  <a href="https://t.me/yel_claw" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"> 
   </a>
   <a href="https://packagist.org/users/fman42" target="_blank">
